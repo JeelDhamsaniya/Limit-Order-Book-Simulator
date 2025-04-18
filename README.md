@@ -103,4 +103,4 @@ The simulator is optimized for high-frequency trading scenarios:
 
 ## Author
 
-[Jeel Dhamsaniya] 
+Jeel Dhamsaniya
