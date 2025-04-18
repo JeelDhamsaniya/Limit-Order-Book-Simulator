@@ -1,6 +1,6 @@
 # High-Frequency Trading Limit Order Book Simulator
 
-A high-performance C++17 Limit Order Book (LOB) simulator designed for high-frequency trading applications. This project demonstrates advanced market-making and order matching capabilities with microsecond-level latency, making it particularly relevant for roles at market-making firms like Optiver.
+A high-performance C++17 Limit Order Book (LOB) simulator designed for high-frequency trading applications. This project demonstrates advanced market-making and order matching capabilities with microsecond-level latency.
 
 ## Features
 
@@ -100,19 +100,7 @@ The simulator is optimized for high-frequency trading scenarios:
 - Implements efficient price-time priority matching
 - Utilizes high-resolution timestamps for latency measurement
 
-## Relevance to Market Making
-
-This project demonstrates key skills relevant to market-making roles:
-- Understanding of order book mechanics
-- High-performance C++ programming
-- Real-time data processing
-- Market microstructure knowledge
-- Performance optimization
-
-## License
-
-MIT License
 
 ## Author
 
-[Your Name] 
+[Jeel Dhamsaniya] 
